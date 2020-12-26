@@ -1,4 +1,8 @@
-﻿var connection = new Postmonger.Session()
+define([
+    'Postmonger'
+], function (
+    Postmonger
+));
 
 connection.trigger('ready');
 connection.on('initActivity',function(data){
