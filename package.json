@@ -4,7 +4,7 @@
   "description": "test",
   "main": "activity.js",
   "scripts": {
-    "start": "node activity.js"
+    "start": "node amd-loader.js"
   },
   "author": "amrit",
   "license": "ISC",
