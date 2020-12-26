@@ -1,7 +1,7 @@
 ﻿var http = require('http'); // Import Node.js core module
 
 var server = http.createServer(function (req, res) {   //create web server
-    if (req.url == '/') { //check the URL of the current request
+    if (req.url == 'https://pref-activity.herokuapp.com/') { //check the URL of the current request
         
         // set response header
         res.writeHead(200, { 'Content-Type': 'text/html' }); 
