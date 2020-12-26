@@ -4,7 +4,7 @@
   "description": "test",
   "main": "activity.js",
   "scripts": {
-    "start": "webpack-dev-server --hot""
+    "start": "webpack-dev-server --hot"
   },
   "author": "amrit",
   "license": "ISC",
