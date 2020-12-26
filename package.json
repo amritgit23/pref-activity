@@ -1,12 +1,22 @@
-﻿{
+{
   "name": "pref-activity",
-  "description": "a really cool app",
   "version": "1.0.0",
-  "engines": {
-    "node": "12.x"
-  },
+  "description": "test",
+  "main": "activity.js",
   "scripts": {
-    "start": "node activity.js"
+    "test": "test"
+  },
+  "author": "amrit",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amritgit23/pref-activity.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/amritgit23/pref-activity/issues"
+  },
+  "homepage": "https://github.com/amritgit23/pref-activity#readme"
 }
-}
-
